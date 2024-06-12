@@ -1,7 +1,6 @@
-nginx
-kasmweb/nginx:1.25.3
---platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+mysql:5.7
+wordpress:latest
