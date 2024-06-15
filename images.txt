@@ -3,3 +3,4 @@ ghcr.io/immich-app/immich-machine-learning:release
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 homeassistant/home-assistant:latest
+tiptime/ttnode
